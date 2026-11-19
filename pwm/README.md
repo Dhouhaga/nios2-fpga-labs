@@ -6,7 +6,6 @@ A configurable PWM generator implemented in VHDL as an Avalon Memory-Mapped slav
 
 - Programmable period and duty cycle through two memory-mapped registers
 - 50 MHz system clock (Altera DE1, Cyclone II EP2C20F484C7)
-- Measured on oscilloscope: `<frequency> kHz`, `<duty> %` at the programmed settings
 
 ## Register Map
 
